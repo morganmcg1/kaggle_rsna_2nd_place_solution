@@ -1,4 +1,4 @@
-# Kaggle RNSA Inracranial 2nd Place Solution Breakdown
+# Kaggle RNSA Intracranial Haemorrage 2nd Place Solution Breakdown
 
 Notebooks to accompany my blog series about the 2nd place Kaggle RSNA winners to help me understand theire solution. First check out the solution creators' (Darragh and Dmitry) work here for yourself:
 
