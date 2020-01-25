@@ -1,4 +1,4 @@
-# kaggle RNSA Inracranial 2nd Place Solution Breakdown
+# Kaggle RNSA Inracranial 2nd Place Solution Breakdown
 
 Notebooks to accompany the blog posts about the 2nd place Kaggle RSNA winners: https://github.com/darraghdog/rsna 
 
