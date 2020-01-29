@@ -18,3 +18,5 @@ Post 2: [Data Preparation](https://www.ntentional.com/technical/2020/1/20/kaggle
 
 Post 3: [Image Classifier Training](https://ntentional.com/technical/2020/1/24/kaggle-rsna-2nd-place-train-img-classifier)
 
+Post 4: [LSTM Training](https://ntentional.com/technical/2020/1/26/rsna-2nd-place-lstm)
+
